@@ -1,6 +1,6 @@
 Name:		texlive-lua-uca
 Version:	61023
-Release:	1
+Release:	2
 Summary:	Unicode Collation Algorithm library for Lua
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-uca
