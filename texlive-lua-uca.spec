@@ -3,7 +3,7 @@ Version:	71218
 Release:	1
 Summary:	Unicode Collation Algorithm library for Lua
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-uca
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lua-uca
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-uca.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-uca.doc.r%{version}.tar.xz
